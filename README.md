@@ -30,7 +30,7 @@
 
 - 🚀 I’m currently learning MERN Stack and BigData Ecosystem.
 
-- 💻 I’m always working on some projects of DevOps.
+- 💻 Always working on some project related to Automation.
 
 - 📝 Write articles on WordPress and LinkedIn when I'm free.
 
