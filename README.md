@@ -34,7 +34,7 @@
 
 - 🤲 I'm looking to collaborate.
 
-- 📫 How to reach me: 19dwivediaman@gmail.com
+- 📫 How to reach me: 1398abhisingh911@gmail.com
 </div>
 <br>
 <br>
