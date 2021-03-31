@@ -30,9 +30,9 @@
 
 - 💻 I’m always working on some projects of DevOps.
 
-- 📝 I write articles on medium and LinkedIn when I'm free
+- 📝 Write articles on Medium and LinkedIn when I'm free.
 
-- 🤲 I'm looking to collaborate.
+- 🤲 Looking to collaborate.
 
 - 📫 How to reach me: 1398abhisingh911@gmail.com
 </div>
