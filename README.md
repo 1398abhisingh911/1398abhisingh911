@@ -40,8 +40,7 @@
 <br>
 
 ![](https://komarev.com/ghpvc/?username=1398abhisingh911&color=blueviolet&style=flat)
-![](https://tokei.rs/b1/github/born69confused/LeetCode_Solutions?category=code)
-![](https://tokei.rs/b1/github/born69confused/LeetCode_Solutions?category=files)
+
 
 ---
 
