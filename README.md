@@ -32,7 +32,7 @@
 
 - 💻 Always working on some project related to Automation.
 
-- 📝 Write articles on WordPress and LinkedIn when I'm free.
+- 📝 Write articles on WordPress and LinkedIn.
 
 - 🤲 Looking to collaborate.
 
