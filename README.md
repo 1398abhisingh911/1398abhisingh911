@@ -3,7 +3,7 @@
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/1398abhisingh911)
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://instagram.com/abhijeetsingh.dx)
-[<img alt="Medium" src="https://img.shields.io/badge/Medium%20-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white"/>](https://https://1398abhisingh911.medium.com/)
+[<img alt="WordPress" src="https://img.shields.io/badge/WordPress----brightgreen>](https://1398abhisingh911.wordpress.com/)
 [<img src ="https://img.shields.io/badge/Email-Here-%23E4405F.svg?&style=for-the-badge&logo=&logoColor=white%22">](mailto:1398abhisingh911@gmail.com)
 
 
