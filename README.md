@@ -3,6 +3,8 @@
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/1398abhisingh911)
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://instagram.com/abhijeetsingh.dx)
+[<img src = "https://img.shields.io/badge/DockerHub-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://hub.docker.com/u/1398abhisingh911)
+[<img src = "https://img.shields.io/badge/Ansible Galaxy-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://galaxy.ansible.com/1398abhisingh911)
 [<img alt="WordPress" src="https://img.shields.io/badge/WordPress-%23E4405F.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://1398abhisingh911.wordpress.com/)
 [<img src ="https://img.shields.io/badge/Email-Here-%23E4405F.svg?&style=for-the-badge&logo=&logoColor=white%22">](mailto:1398abhisingh911@gmail.com)
 
