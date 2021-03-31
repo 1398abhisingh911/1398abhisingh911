@@ -32,7 +32,7 @@
 
 - 💻 I’m always working on some projects of DevOps.
 
-- 📝 Write articles on Medium and LinkedIn when I'm free.
+- 📝 Write articles on WordPress and LinkedIn when I'm free.
 
 - 🤲 Looking to collaborate.
 
